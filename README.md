@@ -9,7 +9,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/iamprasanth/exception-monitor.git
+    git clone https://github.com/iamprasanth/ticketing-tool.git
 
 Switch to the repo folder
 
